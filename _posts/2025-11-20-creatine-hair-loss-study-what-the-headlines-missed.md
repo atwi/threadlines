@@ -50,7 +50,7 @@ Across all measured hair outcomes:
 
 …the study found **no change over 12 weeks** and **no significant difference between creatine and placebo**.
 
-The authors also ran rank-based analyses, outlier sensitivity checks, and multiple statistical corrections. Nothing changed.
+The authors also ran rank-based analyses, outlier sensitivity checks, and multiple statistical corrections, and again found no significant changes.
 
 But here's the part that most sources haven't talked about:
 
@@ -88,7 +88,7 @@ While many of the study participants were young (ranging from 18-40), the exclus
 
 Even in young men who don't yet have visible AGA, miniaturization is often detectable to dermatologists.
 
-Excluding all participants with miniaturization detectable by a dermatologist means there were likely very few or even no men genetically primed for androgen-sensitive hair loss, particularly given the small sample of 19 men in each of the treatment and control groups. 
+Excluding all participants with miniaturization detectable by a dermatologist means there were likely very few or even no men genetically predisposed to significant AGA, particularly given the small sample of 19 men in each of the treatment and control groups. 
 
 ### 3. Blood tests alone don't rule out hair loss driven by factors other than DHT
 
