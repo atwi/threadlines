@@ -78,11 +78,11 @@ In other words, the study population consisted only of men with no clinical or e
 
 ## Why This Screening Choice Limits the Study's External Validity
 
-### AGA requires genetic susceptibility
+### 1. AGA requires genetic susceptibility
 
 Some men simply do not have the genetic predisposition for AGA. If you remove everyone with that susceptibility, you remove the exact group that is most likely to experience hair loss.
 
-### The study likely excluded most men with genetic predisposition to AGA
+### 2. The study likely excluded most men with genetic predisposition to AGA
 
 While many of the study participants were young (ranging from 18-40), the exclusion criteria likely would have caught most men with a predisposition to aggressive AGA.
 
@@ -90,21 +90,9 @@ Even in young men who don't yet have visible AGA, miniaturization is often detec
 
 Excluding all participants with miniaturization detectable by a dermatologist means there were likely very few or even no men genetically primed for androgen-sensitive hair loss, particularly given the small sample of 19 men in each of the treatment and control groups. 
 
-### Blood tests alone don't rule out hair loss driven by factors other than DHT
+### 3. Blood tests alone don't rule out hair loss driven by factors other than DHT
 
-The study *does* suggest that creatine doesn't significantly raise DHT, in contrast to the famous 2009 rugby-player study. But it doesn't anseer whether creatine might accelerate hair loss in men with AGA through some other mechanism. 
-
-Not every compound that can accelerate hair loss does so by raising serum DHT.
-
-For example, many anabolic-androgenic steroids (AAS) don't increase DHT at all. 
-
-Yet many AAS still cause major shedding in men predisposed to AGA, while men without that predisposition often keep perfect hair even on strong androgens
-
-If you tested those AAS only in men with no genetic predisposition for balding, you might conclude they don't affect hair.
-
-Obviously, creatine is not an AAS. And the study results suggest it doesn't significantly increase DHT, which is the primary driver of AGA in most men. 
-
-But to the extent that you believe creatine might worsen AGA through some mechanism other than DHT in men predisposed to AGA, the study doesn't do much to determine that. 
+The study *does* suggest that creatine doesn't significantly raise DHT, in contrast to the famous 2009 rugby-player study. But it doesn't answer whether creatine might accelerate hair loss in men with AGA through some other mechanism. 
 
 ## So the study answers one question clearly — and another not at all
 
