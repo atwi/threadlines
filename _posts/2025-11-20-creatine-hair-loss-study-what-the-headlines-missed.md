@@ -10,9 +10,9 @@ There has been a lot of attention around a new 2025 randomized controlled trial 
 
 **"Creatine doesn't cause hair loss."**
 
-The study does offer valuable data. It's the first trial to pair blood androgen measurements with direct, dermatologist-evaluated hair metrics. And importantly, it did not replicate the results of the 2009 rugby study that reported a sharp spike in DHT after creatine loading.
+The study does offer valuable data. It's the first trial to pair blood androgen measurements with direct, dermatologist-evaluated hair metrics. And importantly, it didn't replicate the results of the 2009 rugby study that reported a sharp spike in DHT after creatine loading.
 
-But after reading the paper closely, and hearing from the authors, there's one key methodological detail that is being overlooked, and it matters a lot for how broadly the results can be applied.
+But after reading the paper, and hearing from the authors, there's one key methodological detail that is being overlooked, and it matters a lot for how broadly the results can be applied.
 
 Before getting to that, let's briefly cover what the study actually did show.
 
@@ -48,31 +48,21 @@ Across all measured hair outcomes:
 - Cumulative hair shaft thickness
 - Follicular units
 
-…the study found **no change over 12 weeks** and **no difference between creatine and placebo**.
+…the study found **no change over 12 weeks** and **no significant difference between creatine and placebo**.
 
 The authors also ran rank-based analyses, outlier sensitivity checks, and multiple statistical corrections. Nothing changed.
-
-This is a well-designed study with very strong internal validity.
-
-It provides evidence that:
-
-- Creatine at 5 g/day doesn't raise serum DHT,
-- And doesn't reduce hair density or thickness,
-- (In the specific men who were studied.)
-
-The rugby DHT spike looks even more like a fluke in light of this.
 
 But here's the part that most sources haven't talked about:
 
 ## Who Was Actually Allowed to Participate in This Study?
 
-### The Key Detail: The Study Excluded All Signs of AGA — Even Mild Miniaturization
+### The Key Detail: The Study Excluded Participants with Any Signs of AGA — Even Mild Miniaturization
 
 The paper lists this exclusion criterion:
 
 > "Dermatological or systemic conditions known to influence hair loss, such as alopecia areata or thyroid disorders."
 
-It's ambiguous whether this includes androgenetic alopecia (AGA), so I reached out to the study authors for clarification.
+It's ambiguous whether this includes androgenetic alopecia (AGA) itself, so I reached out to the study authors for clarification.
 
 They responded that:
 
@@ -88,11 +78,21 @@ In other words, the study population consisted only of men with no clinical or e
 
 ## Why This Screening Choice Limits the Study's External Validity
 
-### 1. AGA requires genetic susceptibility
+### AGA requires genetic susceptibility
 
 Some men simply do not have the genetic predisposition for AGA. If you remove everyone with that susceptibility, you remove the exact group that is most likely to experience hair loss.
 
-### 2. Some substances worsen AGA only in predisposed follicles
+### The study likely excluded most men with genetic predisposition to AGA
+
+While many of the study participants were young (ranging from 18-40), the exclusion criteria likely would have caught most men with a predisposition to aggressive AGA.
+
+Even in young men who don't yet have visible AGA, miniaturization is often detectable to dermatologists.
+
+Excluding all participants with miniaturization detectable by a dermatologist means there were likely very few or even no men genetically primed for androgen-sensitive hair loss, particularly given the small sample of 19 men in each of the treatment and control groups. 
+
+### Blood tests alone don't rule out hair loss driven by factors other than DHT
+
+The study *does* suggest that creatine doesn't significantly raise DHT, in contrast to the famous 2009 rugby-player study. But it doesn't anseer whether creatine might accelerate hair loss in men with AGA through some other mechanism. 
 
 Not every compound that can accelerate hair loss does so by raising serum DHT.
 
@@ -106,17 +106,11 @@ Obviously, creatine is not an AAS. And the study results suggest it doesn't sign
 
 But to the extent that you believe creatine might worsen AGA through some mechanism other than DHT in men predisposed to AGA, the study doesn't do much to determine that. 
 
-### 3. Most AGA starts before men notice it
-
-A large number of men already have mild miniaturization in their 20s, even if their hair looks fine to the naked eye. 
-
-Excluding all participants with miniaturization detectable by a dermatologist means there were potentially no or very few men genetically primed for androgen-sensitive hair loss, particularly given the small sample of 19 men in each of the treatment and control groups. 
-
-### 4. So the study answers one question clearly — and another not at all
+## So the study answers one question clearly — and another not at all
 
 The study provides strong evidence that creatine doesn't cause hair loss or raise DHT in men who do not have preexisting AGA/miniaturization, at least over a 12 week period. 
 
-But it *doesn't* address whether creatine accelerates AGA in men with existing AGA, because those men were explicitly excluded.
+But it *doesn't* address whether creatine accelerates AGA in men with existing AGA, because those men were explicitly excluded. Similarly, men predisposed to aggressive AGA were likely excluded by the study's criteria. 
 
 ## So What Should You Do if You're Worried About Hair Loss?
 
