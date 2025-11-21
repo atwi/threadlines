@@ -1,6 +1,6 @@
 # Site settings
 title: Threadlines
-description: A blog about ideas, connections, and stories that matter
+description: A blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://threadlines.net" # your custom domain
 author:
