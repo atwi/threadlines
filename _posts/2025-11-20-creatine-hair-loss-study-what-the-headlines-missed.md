@@ -6,7 +6,7 @@ categories: health science
 tags: [creatine, hair-loss, research, fitness, supplements]
 ---
 
-There's been a lot of attention around a new 2025 randomized controlled trial that looked directly at creatine supplementation and hair loss. Media outlets, fitness influencers, and Reddit threads everywhere have largely boiled the study down to a simple takeaway:
+There has been a lot of attention around a new 2025 randomized controlled trial that looked directly at creatine supplementation and hair loss. Media outlets, fitness influencers, and Reddit threads everywhere have largely boiled the study down to a simple takeaway:
 
 **"Creatine doesn't cause hair loss."**
 
@@ -34,7 +34,7 @@ The results were straightforward:
 - DHT:T ratio decreased over time.
 - DHT:free T ratio increased, but only because free T dropped — not because DHT rose.
 
-These hormone shifts were similar in the creatine and placebo groups.
+Each of these hormone shifts were similar in the creatine and placebo groups.
 
 ### Hair metrics
 
@@ -114,26 +114,14 @@ Excluding all participants with miniaturization detectable by a dermatologist me
 
 ### 4. So the study answers one question clearly — and another not at all
 
-The study provides strong evidence that creatine doesn't cause hair loss or raise DHT in men who do not have AGA, at least over a 12 week period. 
+The study provides strong evidence that creatine doesn't cause hair loss or raise DHT in men who do not have preexisting AGA/miniaturization, at least over a 12 week period. 
 
 But it *doesn't* address whether creatine accelerates AGA in men with existing AGA, because those men were explicitly excluded.
 
-## What the Study Does Help Clarify
-
-Even with the external validity limitation, this study meaningfully reduces anxiety for many people.
-
-It shows:
-
-- The DHT increase found in the rugby study was probably just a fluke
-- Creatine probably does not increase systemic androgens in a way relevant to AGA
-- Any potential risk for predisposed individuals — if one exists — is likely to be modest
-
 ## So What Should You Do if You're Worried About Hair Loss?
 
-Here's the practical way to think about it:
-
 **If you have no signs of AGA and no strong family history:**  
-The study actually applies to you. Creatine likely won't cause hair loss.
+Creatine is unlikely to cause hair loss.
 
 **If you already have AGA or are predisposed:**  
 The study simply doesn't answer that question. Creatine is probably a minor factor at most, but personal monitoring matters more than online anecdotes.
@@ -146,15 +134,9 @@ The study simply doesn't answer that question. Creatine is probably a minor fact
 
 ## Conclusion
 
-The new study is a high-quality trial and adds something legitimately valuable to the creatine–hair discussion. It strongly suggests that creatine:
+The new study is a high-quality trial and strongly suggests that creatine:
 
-- Does not raise DHT
+- Does not raise DHT, and,
 - Does not worsen hair outcomes in men without AGA
 
-But because the researchers screened out anyone with even mild signs of androgenetic alopecia — a fact the authors confirmed directly — the results tell us nothing about men who are genetically predisposed to male pattern baldness.
-
-For many people, this study should be reassuring.  
-For others, it simply means the question isn't fully settled yet.
-
-Either way, the study is a step forward — just not quite the sweeping answer many people assumed.
-
+But because the researchers screened out anyone with even mild signs of androgenetic alopecia, the results tell us much less about creatine's potential effects men who *are* genetically predisposed to male pattern baldness.
