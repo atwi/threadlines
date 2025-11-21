@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creatine and Hair Loss: What the 2025 Study Actually Shows (and What It Doesn't)"
-date: 2025-11-21 10:00:00 -0000
+date: 2025-11-20 12:00:00 -0000
 categories: health science
 tags: [creatine, hair-loss, research, fitness, supplements]
 ---
@@ -90,21 +90,21 @@ In other words, the study population consisted only of men with no clinical or e
 
 ### 1. AGA requires genetic susceptibility
 
-AGA doesn't happen in men whose follicles aren't sensitive to androgens. If you remove everyone with that susceptibility, you remove the only group capable of showing androgen-dependent miniaturization.
+Some men simply do not have the genetic predisposition for AGA. If you remove everyone with that susceptibility, you remove the only group capable of showing androgen-dependent miniaturization.
 
 ### 2. Some substances worsen AGA only in predisposed follicles
 
 Not every compound that can accelerate hair loss does so by raising serum DHT.
 
-For example:
+For example, many anabolic-androgenic steroids (AAS) don't increase DHT at all. 
 
-- Many anabolic-androgenic steroids don't increase DHT at all
-- Yet still cause major shedding in men predisposed to AGA
-- While men without that predisposition often keep perfect hair even on strong androgens
+Yet many AAS still cause major shedding in men predisposed to AGA, while men without that predisposition often keep perfect hair even on strong androgens
 
 If you tested those steroids only in men with perfect hairlines, you would conclude they don't affect hair.
 
-That's essentially what happened here with creatine, except the substance is not androgenic — the issue is the population sampled.
+Obviously, creatine is not an AAS. And the study results suggest it doesn't significantly increase DHT, which is the primary driver of AGA in most men. 
+
+But to the extent that you believe creatine might worsen AGA through some mechanism other than DHT in men predisposed to AGA, the study doesn't do much to determine that. 
 
 ### 3. Most AGA starts before men notice it
 
