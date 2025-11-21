@@ -90,7 +90,7 @@ In other words, the study population consisted only of men with no clinical or e
 
 ### 1. AGA requires genetic susceptibility
 
-Some men simply do not have the genetic predisposition for AGA. If you remove everyone with that susceptibility, you remove the only group capable of showing androgen-dependent miniaturization.
+Some men simply do not have the genetic predisposition for AGA. If you remove everyone with that susceptibility, you remove the exact group that is most likely to experience hair loss.
 
 ### 2. Some substances worsen AGA only in predisposed follicles
 
@@ -108,12 +108,9 @@ But to the extent that you believe creatine might worsen AGA through some mechan
 
 ### 3. Most AGA starts before men notice it
 
-A large number of men already have mild miniaturization in their 20s, even if their hair "looks fine."
+A large number of men already have mild miniaturization in their 20s, even if their hair looks fine to the naked eye. 
 
-Excluding all miniaturization means:
-
-- No early AGA
-- And quite possibly no or very few men genetically primed for androgen-sensitive hair loss
+Excluding all participants with miniaturization detectable by a dermatologist means there were potentially no or very few men genetically primed for androgen-sensitive hair loss, particularly given the small sample of 19 men in each of the treatment and control groups. 
 
 ### 4. So the study answers one question clearly — and another not at all
 
