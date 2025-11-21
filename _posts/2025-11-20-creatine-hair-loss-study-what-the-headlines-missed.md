@@ -100,7 +100,7 @@ For example, many anabolic-androgenic steroids (AAS) don't increase DHT at all.
 
 Yet many AAS still cause major shedding in men predisposed to AGA, while men without that predisposition often keep perfect hair even on strong androgens
 
-If you tested those steroids only in men with perfect hairlines, you would conclude they don't affect hair.
+If you tested those AAS only in men with no genetic predisposition for balding, you might conclude they don't affect hair.
 
 Obviously, creatine is not an AAS. And the study results suggest it doesn't significantly increase DHT, which is the primary driver of AGA in most men. 
 
